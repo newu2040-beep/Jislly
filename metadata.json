@@ -1,0 +1,6 @@
+{
+  "name": "JISLLY",
+  "description": "Aesthetic photo editor with vintage film looks, scrapbook editing, stickers, frames & typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
